@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @BKYash
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on anything related to my passion
+- 👋 Hi, I’m Yashvardhan
+- 👀 I’m interested in learning web development.
+- 💞️ I’m looking to collaborate on anything related to my passion.
 - 📫 How to reach me:yashvardhan.sharma1994@gmail.com
 
 <!---
